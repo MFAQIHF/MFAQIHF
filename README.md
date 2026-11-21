@@ -7,6 +7,7 @@ Currently focusing on **Artificial Intelligence**, **Data Science**, and backend
 - 🔭 Currently study about AI/ML and related areas
 - 🛠️ My core stack just Python ***for now...***
 
+<!--
   ### Github Statistic
 <p align="left">
 <a href="https://github.com/MFAQIHF">
@@ -14,3 +15,4 @@ Currently focusing on **Artificial Intelligence**, **Data Science**, and backend
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MFAQIHF&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+-->
